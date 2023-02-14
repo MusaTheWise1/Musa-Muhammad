@@ -1,0 +1,1 @@
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VersatileTeam/hydrogen-macos-installer/main/install.sh)
